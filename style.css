@@ -1,0 +1,19 @@
+.container {
+    font-size: 1.5em;
+}
+
+div > p {
+    border: 1px solid black;
+}
+
+.absolute {
+    width: 150px;
+}
+
+.viewport {
+    width: 30vw;
+}
+
+.em {
+    width: 25em;
+}
